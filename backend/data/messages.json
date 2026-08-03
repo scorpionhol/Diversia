@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2,
+    "name": "holy tshenke ",
+    "email": "holytshenke1@gmail.com",
+    "phone": "+243999333065",
+    "company": "tshenktech",
+    "sector": "commercial",
+    "services": [
+      "Électricité MT/BT"
+    ],
+    "message": "besoin d'assitance ",
+    "status": "urgent",
+    "createdAt": "2026-08-03T18:32:46.125Z"
+  },
+  {
+    "id": 1,
+    "name": "Holy Ngoie",
+    "email": "holyngoie@gmail.com",
+    "phone": "0851140332",
+    "company": "tshenktech",
+    "sector": "mining",
+    "services": [
+      "Maintenance Industrielle"
+    ],
+    "message": "nn",
+    "status": "urgent",
+    "createdAt": "2026-07-30T10:00:55.241Z"
+  }
+]

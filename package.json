@@ -1,0 +1,12 @@
+{
+  "name": "diversia-v2",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "lint": "npm --prefix frontend run lint",
+    "backend": "npm --prefix backend run start",
+    "frontend:install": "npm --prefix frontend install",
+    "backend:install": "npm --prefix backend install"
+  }
+}
